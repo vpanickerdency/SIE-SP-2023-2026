@@ -1,0 +1,5 @@
+(a) r = -0.73; residual -129 x10^3 km^2 (-1.6 SD)
+(b) ice-edge variability rank 1; wind variability rank 13
+(c) episodes: 1-5 Aug (-0.1 SD), 8-13 Aug (-1.8 SD), 20-23 Aug (-1.2 SD)
+(c) regrowth: +3.3 SD, +3.5 SD
+Saved: c:\users\vpani\downloads\final\fig.10\Fig10_ABS_wind_response.png
